@@ -79,10 +79,7 @@ Step 6:- Run the below command from app folder
 uvicorn main:app --host 0.0.0.0 --reload
 ```
 Step 7:- Now you can use the integrated docs at:
-```commandline
-http://127.0.0.1:8000/docs
+```commandline http://127.0.0.1:8000/docs
 ```
 ![Alt text](assets/fastapi landing page.png)
 
-## Directory Structure of Backend Services
-<img src="assets/directory structure.png" width="400">
