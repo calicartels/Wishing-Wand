@@ -1,6 +1,13 @@
 # Social Media Content Creator - Wishing Wand
 An AI-based Image Editing and multilingual social media caption and hashtag generator
 
+<h1 align="center">
+  <br>
+  <img src="https://github.com/calicartels/Wishing-Wand/blob/main/assets/LOGO.jpeg" width="300">
+  <br>
+  <a href="https://github.com/calicartels/Wishing-Wand">LLMTalk</a>
+  <br>
+</h1>
 
 <p align="center">
   <a href="#introduction">Introduction</a> •
