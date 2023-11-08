@@ -28,7 +28,7 @@ The essence of this hackathon challenge lies in the development of a platform or
 
 ## Wishing Wand Demo Video 
 
-[DEMO](https://github.com/calicartels/Wishing-Wand/blob/main/assets/Demo.mp4)
+![DEMO](https://github.com/calicartels/Wishing-Wand/blob/main/assets/Demo.mp4)
 
 
 
