@@ -1,5 +1,23 @@
 # Social Media Content Creator - Wishing Wand
-An AI based Image Editing and multilingual social media caption and hashtag generator
+An AI-based Image Editing and multilingual social media caption and hashtag generator
+
+
+<p align="center">
+  <a href="#introduction">Introduction</a> •
+  <a href="#demo">Wishing Wand Demo Video</a> •
+  <a href="#key-features">Key Features</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#refernces">References</a> •
+
+</p>
+
+
+## Introduction
+
+In today's fiercely competitive business landscape, the art of engaging customers through compelling marketing content, particularly in the digital realm, stands as a pivotal strategy for achieving business objectives and cultivating brand loyalty. Nevertheless, many customers often find themselves grappling with the challenge of crafting marketing materials that truly resonate with their target audience. This challenge can be attributed to constraints such as limited resources, skill gaps, and the constant demand for producing top-notch content. It's a common scenario to see Social Media Managers collaborating with external agencies to create their content. However, even the smallest tweaks to the content necessitate extensive back-and-forth communication between the marketing managers and these agencies. This not only drains financial resources but also consumes valuable time. Moreover, time-sensitive campaigns may require Social Media Managers to make content adjustments promptly.
+
+The essence of this hackathon challenge lies in the development of a platform or solution that empowers customers with real-time, AI-enhanced image editing capabilities, granting them the freedom to customize and enhance generated images on the spot. This includes the power to remove, replace, or fill specific elements by simply providing intuitive text prompts. Additionally, the platform will harness a style-based caption generation model to automatically craft captions that are not only contextually relevant but also exquisitely styled, perfectly complementing the visuals. The ultimate goal is to create a solution that is incredibly user-friendly, highly scalable, and accessible to businesses, regardless of their level of technical expertise.
+
 
 ## Wishing Wand Demo Video 
 
@@ -7,16 +25,17 @@ An AI based Image Editing and multilingual social media caption and hashtag gene
 
 
 
-### Product Features in Content Genie
+### Key  Features
+Edits images and recommends suitable social media captions and hashtags
+1. Removes any object in the image
+2. Fills the masked object corresponding to the text prompt 
+3. Replace the background corresponding to the text prompt
+4. Recommends Captions and Hashtags suitable for the selected image
+
 <img alt="capabilities.png" height="350" src="assets/capabilities.png" title="Features in Content Genie" width="512"/>
 
 ### Model Interpretability using Diffusion Attentive Attribution Maps (DAAM)
 <img alt="heatmap.png" height="329" src="assets/heatmap.png" title="Interpretability of Stable Diffusion" width="290"/>
-
-## Description
-In today's competitive business landscape, engaging customers through effective marketing content, especially on digital channels, is crucial for driving business goals and building brand loyalty. However, many customers often struggle to create compelling marketing materials that resonate with their target audience. They may lack the resources, skills, and time to produce high-quality content consistently. It is frequently observed that Social Media  Managers usually work with agencies that create the content for them. Any tweak in the content requires to and fro between the marketing managers and the agencies, which is not cost effective both in terms of money and time. There could be time-sensitive campaigns that would require the Social Media Managers to modify the content immediately.
-
-The challenge for this hackathon is to develop a platform or solution that empowers customers with real-time, AI-powered image editing capabilities allowing them to customize and enhance the generated images on-the-fly, with options to remove, replace or refill specific objects using intuitive text prompts. The platform would also employ a style-based caption generation model, automatically producing contextually relevant and stylized captions that resonate with the visuals. The solution would be user-friendly, scalable, and accessible to businesses, regardless of their technical expertise.
 
 
 ## Features
@@ -27,8 +46,8 @@ Edits images and recommends suitable social media captions and hashtags
 4. Recommends Captions and Hashtags suitable for the selected image
 
 
-## Installation
-To install this service there are 2 ways. Often, running the service locally allows you to easily change and test the code. If you're ready for productizing, run the service as containerize service.
+## How To Use
+To install this service there are 2 ways. Often, running the service locally allows you to easily change and test the code. If you're ready for productizing, run the service as containerized service.
 
 ### Run service locally
 Install virtual environment
