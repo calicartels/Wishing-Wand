@@ -5,7 +5,7 @@ An AI-based Image Editing and multilingual social media caption and hashtag gene
   <br>
   <img src="https://github.com/calicartels/Wishing-Wand/blob/main/assets/LOGO.jpeg" width="300">
   <br>
-  <a href="https://github.com/calicartels/Wishing-Wand">LLMTalk</a>
+  <a href="https://github.com/calicartels/Wishing-Wand">Wishing Wand</a>
   <br>
 </h1>
 
@@ -28,7 +28,9 @@ The essence of this hackathon challenge lies in the development of a platform or
 
 ## Wishing Wand Demo Video 
 
-
+<video width="640" height="360" controls>
+      <source src="https://github.com/calicartels/Wishing-Wand/blob/main/assets/Demo.mp4" type="video/mp4">
+    </video>
 
 
 
