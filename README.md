@@ -11,7 +11,6 @@ An AI-based Image Editing and multilingual social media caption and hashtag gene
 
 <p align="center">
   <a href="#introduction">Introduction</a> •
-  <a href="#demo">Wishing Wand Demo Video</a> •
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#refernces">References</a> •
@@ -24,16 +23,6 @@ An AI-based Image Editing and multilingual social media caption and hashtag gene
 In today's fiercely competitive business landscape, the art of engaging customers through compelling marketing content, particularly in the digital realm, stands as a pivotal strategy for achieving business objectives and cultivating brand loyalty. Nevertheless, many customers often find themselves grappling with the challenge of crafting marketing materials that truly resonate with their target audience. This challenge can be attributed to constraints such as limited resources, skill gaps, and the constant demand for producing top-notch content. It's a common scenario to see Social Media Managers collaborating with external agencies to create their content. However, even the smallest tweaks to the content necessitate extensive back-and-forth communication between the marketing managers and these agencies. This not only drains financial resources but also consumes valuable time. Moreover, time-sensitive campaigns may require Social Media Managers to make content adjustments promptly.
 
 The essence of this hackathon challenge lies in the development of a platform or solution that empowers customers with real-time, AI-enhanced image editing capabilities, granting them the freedom to customize and enhance generated images on the spot. This includes the power to remove, replace, or fill specific elements by simply providing intuitive text prompts. Additionally, the platform will harness a style-based caption generation model to automatically craft captions that are not only contextually relevant but also exquisitely styled, perfectly complementing the visuals. The ultimate goal is to create a solution that is incredibly user-friendly, highly scalable, and accessible to businesses, regardless of their level of technical expertise.
-
-
-## Wishing Wand Demo Video 
-
-<video controls width="640" height="360">
-  <source src="https://github.com/calicartels/Wishing-Wand/blob/main/assets/Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
 
 
 
