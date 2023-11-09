@@ -12,8 +12,10 @@ An AI-based Image Editing and multilingual social media caption and hashtag gene
 <p align="center">
   <a href="#introduction">Introduction</a> •
   <a href="#key-features">Key Features</a> •
+   <a href="#workflow"> Workflow </a>•
   <a href="#how-to-use">How To Use</a> •
-  <a href="#refernces">References</a> •
+  <a href="#workflow"> Workflow </a>•
+  <a href="#references">References</a>
 
 </p>
 
@@ -45,6 +47,10 @@ Edits images and recommends suitable social media captions and hashtags
 2. Fills the masked object corresponding to the text prompt 
 3. Replaces the background corresponding to the text prompt
 4. Recommends Captions and Hashtags suitable for the selected image
+
+## Workflow
+
+
 
 
 ## How To Use
