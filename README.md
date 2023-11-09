@@ -50,7 +50,7 @@ Edits images and recommends suitable social media captions and hashtags
 
 ## Workflow
 
-![Alt text](assets/workflow 2.png)
+![Alt text](https://github.com/calicartels/Wishing-Wand/blob/main/assets/workflow%202.png)
 ![Alt text](assets/workflow.png)
 
 
