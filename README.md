@@ -45,10 +45,13 @@ Edits images and recommends suitable social media captions and hashtags
 Edits images and recommends suitable social media captions and hashtags
 1. Removes any object in the image
 2. Fills the masked object corresponding to the text prompt 
-3. Replaces the background corresponding to the text prompt
+3. Replace the background corresponding to the text prompt
 4. Recommends Captions and Hashtags suitable for the selected image
 
 ## Workflow
+
+![Alt text](assets/workflow 2.png)
+![Alt text](assets/workflow.png)
 
 
 
@@ -59,7 +62,7 @@ To install this service there are 2 ways. Often, running the service locally all
 ### Run service locally
 Install virtual environment
 
-Step 1 :- Creates a Virtual Environment named "venv"
+Step 1 :- Create a Virtual Environment named "venv"
 ```commandline
 python3.10 -m venv venv
 ```
